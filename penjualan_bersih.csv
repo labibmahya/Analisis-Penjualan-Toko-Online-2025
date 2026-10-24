@@ -1,0 +1,501 @@
+﻿Order_ID;Customer_ID;Customer_Age;Gender;Product_Category;Product_Name;Unit_Price;Quantity;Discount_Pct;Payment_Method;Order_Status;City;Order_Date
+ORD-1302;C0122;54;Laki-laki;Kecantikan;Parfum 50ml;210.000;1;5;Transfer Bank;Selesai;Malang;2025-12-18
+ORD-1233;C0051;46;Perempuan;Kecantikan;Facial Wash;55.000;1;0;E-Wallet;Selesai;Denpasar;2025-01-15
+ORD-1052;C0160;27;Laki-laki;Elektronik;Powerbank 10000mAh;180.000;1;0;E-Wallet;Selesai;Bandung;2025-04-13
+ORD-1306;C0150;24;Laki-laki;Kecantikan;Sunscreen SPF50;85.000;3;20;COD;Selesai;Surabaya;2025-03-17
+ORD-1471;C0161;32;Perempuan;Kecantikan;Parfum 50ml;210.000;2;5;COD;Selesai;Medan;2025-12-14
+ORD-1163;C0158;44;Laki-laki;Fashion;Kemeja Flannel;165.000;3;10;COD;Selesai;Bandung;2025-12-28
+ORD-1188;C0130;30;Laki-laki;Olahraga;Matras Yoga;110.000;1;10;Kartu Kredit;Selesai;Bandung;2025-02-01
+ORD-1415;C0143;45;Perempuan;Fashion;Kaos Polos;75.000;1;15;E-Wallet;Selesai;Medan;2025-05-19
+ORD-1459;C0141;43;Perempuan;Elektronik;Keyboard Mekanik;450.000;1;5;E-Wallet;Dikembalikan;Surabaya;2025-10-20
+ORD-1156;C0116;47;Perempuan;Elektronik;Powerbank 10000mAh;180.000;3;20;E-Wallet;Dikembalikan;Bandung;2025-06-12
+ORD-1362;C0057;29;Laki-laki;Olahraga;Resistance Band;65.000;1;10;Kartu Kredit;Selesai;Bandung;2025-12-17
+ORD-1257;C0166;;Laki-laki;Olahraga;Resistance Band;65.000;1;0;Kartu Kredit;Selesai;Malang;2025-12-10
+ORD-1160;C0008;49;Perempuan;Fashion;Sepatu Sneakers;350.000;1;20;Kartu Kredit;Selesai;Semarang;2025-08-02
+ORD-1323;C0119;25;Perempuan;Rumah Tangga;Set Panci;410.000;3;10;Transfer Bank;Selesai;Jakarta;2025-05-14
+ORD-1303;C0159;27;Laki-laki;Olahraga;Resistance Band;65.000;1;0;E-Wallet;Selesai;Malang;2025-10-20
+ORD-1165;C0153;59;Perempuan;Fashion;Sepatu Sneakers;350.000;2;20;Transfer Bank;Selesai;Semarang;2025-12-16
+ORD-1423;C0168;42;Perempuan;Kecantikan;Parfum 50ml;210.000;1;0;Kartu Kredit;Selesai;Medan;2025-11-03
+ORD-1014;C0033;60;Perempuan;Kecantikan;Serum Wajah;135.000;1;20;Kartu Kredit;Selesai;Bandung;2025-09-30
+ORD-1486;C0002;56;Perempuan;Kecantikan;Facial Wash;55.000;1;15;Kartu Kredit;Selesai;Medan;2025-09-13
+ORD-1457;C0082;52;Laki-laki;Kecantikan;Serum Wajah;135.000;2;0;E-Wallet;Selesai;Makassar;2025-06-06
+ORD-1426;C0114;37;Perempuan;Kecantikan;Parfum 50ml;210.000;1;0;Transfer Bank;Selesai;Denpasar;2025-04-27
+ORD-1083;C0020;48;Perempuan;Fashion;Celana Chino;190.000;2;5;Transfer Bank;Selesai;Makassar;2025-12-02
+ORD-1473;C0143;;Laki-laki;Fashion;Sepatu Sneakers;350.000;1;0;Transfer Bank;Dikembalikan;Bandung;2025-03-22
+ORD-1066;C0156;56;Laki-laki;Fashion;Kaos Polos;75.000;1;5;COD;Selesai;Denpasar;2025-10-13
+ORD-1483;C0163;41;Laki-laki;Elektronik;Earphone Bluetooth;250.000;2;10;E-Wallet;Selesai;Denpasar;2025-02-28
+ORD-1033;C0079;32;Laki-laki;Elektronik;Keyboard Mekanik;450.000;2;5;COD;Selesai;Jakarta;2025-12-12
+ORD-1147;C0115;56;Perempuan;Rumah Tangga;Set Panci;410.000;2;0;Kartu Kredit;Selesai;Bandung;2025-12-10
+ORD-1139;C0164;57;Perempuan;Rumah Tangga;Blender;275.000;1;5;Transfer Bank;Selesai;Surabaya;2025-11-14
+ORD-1091;C0009;55;Perempuan;Elektronik;Earphone Bluetooth;250.000;1;0;COD;Dikembalikan;Bandung;2025-06-08
+ORD-1334;C0028;49;Laki-laki;Elektronik;Webcam HD;300.000;3;20;E-Wallet;Selesai;Medan;2025-11-26
+ORD-1268;C0018;47;Perempuan;Fashion;Sepatu Sneakers;350.000;1;10;Kartu Kredit;Selesai;Semarang;2025-01-24
+ORD-1335;C0177;48;Perempuan;Kecantikan;Lipstik Matte;70.000;1;15;Transfer Bank;Selesai;Medan;2025-12-07
+ORD-1311;C0135;54;Laki-laki;Olahraga;Sepatu Lari;480.000;1;20;E-Wallet;Selesai;Bandung;2025-03-11
+ORD-1342;C0159;24;Perempuan;Rumah Tangga;Dispenser Mini;260.000;1;15;Kartu Kredit;Selesai;Medan;2025-09-25
+ORD-1432;C0088;44;Perempuan;Elektronik;Powerbank 10000mAh;180.000;5;5;Transfer Bank;Selesai;Malang;2025-12-07
+ORD-1174;C0137;39;Perempuan;Kecantikan;Lipstik Matte;70.000;2;0;E-Wallet;Selesai;Semarang;2025-03-30
+ORD-1259;C0198;22;Laki-laki;Olahraga;Dumbbell 5kg;150.000;1;0;Transfer Bank;Selesai;Surabaya;2025-08-30
+ORD-1295;C0019;39;Laki-laki;Elektronik;Mouse Wireless;120.000;1;0;Transfer Bank;Selesai;Denpasar;2025-05-14
+ORD-1133;C0201;48;Laki-laki;Olahraga;Dumbbell 5kg;150.000;2;10;Kartu Kredit;Selesai;Makassar;2025-06-08
+ORD-1244;C0044;38;Perempuan;Rumah Tangga;Dispenser Mini;260.000;2;20;Transfer Bank;Selesai;Semarang;2025-05-24
+ORD-1041;C0122;57;Laki-laki;Rumah Tangga;Blender;275.000;1;15;E-Wallet;Dibatalkan;Malang;2025-11-08
+ORD-1102;C0005;29;Perempuan;Elektronik;Mouse Wireless;120.000;1;5;Transfer Bank;Dikembalikan;Jakarta;2025-05-02
+ORD-1402;C0200;43;Perempuan;Elektronik;Powerbank 10000mAh;180.000;1;0;Transfer Bank;Dikembalikan;Denpasar;2025-02-14
+ORD-1347;C0197;57;Perempuan;Elektronik;Powerbank 10000mAh;180.000;2;0;Tidak diketahui;Dikembalikan;Makassar;2025-08-21
+ORD-1228;C0012;54;Perempuan;Fashion;Jaket Hoodie;220.000;5;5;Transfer Bank;Selesai;Makassar;2025-03-27
+ORD-1305;C0220;35;Perempuan;Kecantikan;Parfum 50ml;210.000;3;10;Kartu Kredit;Selesai;Jakarta;2025-07-23
+ORD-1249;C0125;39;Laki-laki;Olahraga;Resistance Band;65.000;1;20;Kartu Kredit;Selesai;Jakarta;2025-03-08
+ORD-1404;C0067;29;Perempuan;Fashion;Celana Chino;190.000;2;10;COD;Selesai;Surabaya;2025-07-26
+ORD-1110;C0058;24;Perempuan;Olahraga;Dumbbell 5kg;150.000;1;0;E-Wallet;Selesai;Makassar;2025-03-21
+ORD-1243;C0110;28;Laki-laki;Olahraga;Botol Minum;60.000;3;20;Transfer Bank;Selesai;Medan;2025-12-30
+ORD-1413;C0093;57;Perempuan;Elektronik;Earphone Bluetooth;250.000;2;0;COD;Selesai;Bandung;2025-11-11
+ORD-1254;C0003;57;Laki-laki;Fashion;Kemeja Flannel;165.000;1;0;E-Wallet;Selesai;Malang;2025-02-05
+ORD-1388;C0047;51;Perempuan;Olahraga;Matras Yoga;110.000;3;15;COD;Selesai;Jakarta;2025-11-09
+ORD-1465;C0172;19;Perempuan;Kecantikan;Parfum 50ml;210.000;1;0;COD;Selesai;Jakarta;2025-03-14
+ORD-1189;C0015;47;Laki-laki;Fashion;Sepatu Sneakers;350.000;1;0;Kartu Kredit;Dibatalkan;Denpasar;2025-12-26
+ORD-1443;C0142;27;Perempuan;Elektronik;Webcam HD;300.000;1;0;Transfer Bank;Selesai;Makassar;2025-12-25
+ORD-1241;C0211;20;Perempuan;Olahraga;Matras Yoga;110.000;5;0;E-Wallet;Selesai;Medan;2025-12-18
+ORD-1218;C0100;38;Perempuan;Elektronik;Earphone Bluetooth;250.000;1;0;Kartu Kredit;Selesai;Surabaya;2025-11-24
+ORD-1148;C0203;21;Laki-laki;Rumah Tangga;Dispenser Mini;260.000;1;20;E-Wallet;Selesai;Denpasar;2025-08-11
+ORD-1372;C0138;53;Laki-laki;Elektronik;Earphone Bluetooth;250.000;1;15;COD;Selesai;Semarang;2025-10-21
+ORD-1275;C0198;31;Perempuan;Rumah Tangga;Lampu LED Meja;95.000;1;20;Transfer Bank;Selesai;Semarang;2025-03-03
+ORD-1383;C0181;51;Perempuan;Kecantikan;Facial Wash;55.000;2;10;E-Wallet;Selesai;Semarang;2025-12-04
+ORD-1448;C0161;;Perempuan;Fashion;Sepatu Sneakers;350.000;3;10;COD;Dibatalkan;Surabaya;2025-11-19
+ORD-1441;C0142;28;Laki-laki;Kecantikan;Lipstik Matte;70.000;1;20;COD;Selesai;Bandung;2025-11-03
+ORD-1466;C0003;22;Perempuan;Olahraga;Botol Minum;60.000;2;15;COD;Selesai;Semarang;2025-01-28
+ORD-1363;C0085;41;Perempuan;Rumah Tangga;Blender;275.000;4;10;Kartu Kredit;Selesai;Medan;2025-04-20
+ORD-1061;C0031;30;Laki-laki;Kecantikan;Lipstik Matte;70.000;2;20;E-Wallet;Selesai;Surabaya;2025-06-06
+ORD-1494;C0086;40;Laki-laki;Fashion;Sepatu Sneakers;350.000;2;15;COD;Selesai;Jakarta;2025-08-01
+ORD-1467;C0098;50;Laki-laki;Elektronik;Mouse Wireless;120.000;1;10;Transfer Bank;Selesai;Makassar;2025-11-29
+ORD-1428;C0049;44;Perempuan;Olahraga;Dumbbell 5kg;150.000;1;15;Kartu Kredit;Selesai;Denpasar;2025-01-04
+ORD-1327;C0110;48;Perempuan;Olahraga;Sepatu Lari;480.000;1;0;COD;Selesai;Jakarta;2025-11-21
+ORD-1090;C0091;32;Laki-laki;Kecantikan;Lipstik Matte;70.000;2;15;E-Wallet;Selesai;Semarang;2025-04-28
+ORD-1119;C0093;23;Perempuan;Fashion;Sepatu Sneakers;350.000;1;10;Kartu Kredit;Selesai;Surabaya;2025-08-24
+ORD-1446;C0164;21;Perempuan;Fashion;Celana Chino;190.000;3;20;Transfer Bank;Selesai;Denpasar;2025-02-10
+ORD-1359;C0051;30;Perempuan;Rumah Tangga;Dispenser Mini;260.000;1;15;Transfer Bank;Selesai;Malang;2025-10-07
+ORD-1301;C0172;40;Perempuan;Fashion;Jaket Hoodie;220.000;2;20;Kartu Kredit;Selesai;Medan;2025-11-03
+ORD-1116;C0196;34;Perempuan;Fashion;Jaket Hoodie;220.000;1;5;Kartu Kredit;Selesai;Makassar;2025-04-19
+ORD-1304;C0211;58;Laki-laki;Fashion;Kaos Polos;75.000;1;15;Transfer Bank;Selesai;Semarang;2025-12-07
+ORD-1031;C0200;53;Perempuan;Rumah Tangga;Blender;275.000;4;0;E-Wallet;Selesai;Bandung;2025-11-12
+ORD-1023;C0021;29;Laki-laki;Olahraga;Dumbbell 5kg;150.000;2;0;Kartu Kredit;Selesai;Surabaya;2025-01-30
+ORD-1265;C0041;34;Laki-laki;Kecantikan;Parfum 50ml;210.000;1;10;Tidak diketahui;Selesai;Surabaya;2025-11-12
+ORD-1032;C0086;44;Laki-laki;Kecantikan;Serum Wajah;135.000;1;15;Transfer Bank;Selesai;Semarang;2025-04-02
+ORD-1317;C0134;57;Perempuan;Rumah Tangga;Blender;275.000;1;15;COD;Selesai;Surabaya;2025-08-27
+ORD-1053;C0192;25;Laki-laki;Rumah Tangga;Set Panci;410.000;1;0;COD;Selesai;Semarang;2025-03-27
+ORD-1493;C0050;18;Laki-laki;Fashion;Sepatu Sneakers;350.000;1;20;Transfer Bank;Dikembalikan;Jakarta;2025-04-30
+ORD-1068;C0177;56;Perempuan;Fashion;Sepatu Sneakers;350.000;1;0;Tidak diketahui;Dibatalkan;Semarang;2025-12-15
+ORD-1217;C0175;55;Perempuan;Rumah Tangga;Dispenser Mini;260.000;3;0;E-Wallet;Dibatalkan;Surabaya;2025-07-12
+ORD-1411;C0057;54;Laki-laki;Olahraga;Botol Minum;60.000;2;5;Kartu Kredit;Selesai;Jakarta;2025-12-13
+ORD-1057;C0063;47;Perempuan;Fashion;Kaos Polos;75.000;1;20;COD;Selesai;Makassar;2025-05-23
+ORD-1461;C0109;41;Perempuan;Olahraga;Matras Yoga;110.000;1;10;Transfer Bank;Dikembalikan;Medan;2025-02-27
+ORD-1003;C0056;39;Laki-laki;Fashion;Celana Chino;190.000;1;0;COD;Selesai;Surabaya;2025-06-24
+ORD-1059;C0177;48;Perempuan;Kecantikan;Facial Wash;55.000;3;0;COD;Selesai;Malang;2025-10-12
+ORD-1222;C0078;18;Perempuan;Kecantikan;Parfum 50ml;210.000;3;5;COD;Selesai;Makassar;2025-11-05
+ORD-1360;C0110;35;Perempuan;Fashion;Sepatu Sneakers;350.000;1;20;COD;Selesai;Bandung;2025-03-03
+ORD-1341;C0012;22;Perempuan;Fashion;Celana Chino;190.000;1;20;E-Wallet;Dibatalkan;Makassar;2025-12-15
+ORD-1213;C0072;52;Laki-laki;Olahraga;Sepatu Lari;480.000;4;0;Transfer Bank;Selesai;Bandung;2025-11-22
+ORD-1075;C0001;60;Perempuan;Elektronik;Keyboard Mekanik;450.000;1;10;COD;Selesai;Denpasar;2025-09-21
+ORD-1328;C0188;33;Laki-laki;Rumah Tangga;Dispenser Mini;260.000;1;0;Kartu Kredit;Selesai;Makassar;2025-11-21
+ORD-1201;C0004;31;Laki-laki;Fashion;Jaket Hoodie;220.000;2;20;Kartu Kredit;Selesai;Surabaya;2025-06-05
+ORD-1418;C0106;25;Perempuan;Olahraga;Resistance Band;65.000;2;15;E-Wallet;Dikembalikan;Medan;2025-05-12
+ORD-1194;C0186;25;Laki-laki;Fashion;Jaket Hoodie;220.000;2;0;E-Wallet;Selesai;Denpasar;2025-04-07
+ORD-1081;C0082;48;Perempuan;Fashion;Sepatu Sneakers;350.000;5;20;E-Wallet;Selesai;Denpasar;2025-12-02
+ORD-1237;C0036;54;Perempuan;Fashion;Sepatu Sneakers;350.000;1;15;E-Wallet;Selesai;Denpasar;2025-07-18
+ORD-1027;C0077;60;Laki-laki;Olahraga;Matras Yoga;110.000;1;0;E-Wallet;Selesai;Bandung;2025-12-08
+ORD-1462;C0206;46;Laki-laki;Rumah Tangga;Blender;275.000;1;20;E-Wallet;Selesai;Malang;2025-06-29
+ORD-1207;C0060;22;Laki-laki;Elektronik;Keyboard Mekanik;450.000;1;5;COD;Selesai;Jakarta;2025-03-12
+ORD-1294;C0026;48;Laki-laki;Kecantikan;Facial Wash;55.000;1;20;Transfer Bank;Selesai;Bandung;2025-06-29
+ORD-1351;C0200;29;Laki-laki;Kecantikan;Parfum 50ml;210.000;1;15;COD;Selesai;Bandung;2025-09-05
+ORD-1309;C0191;46;Perempuan;Elektronik;Powerbank 10000mAh;180.000;2;10;Transfer Bank;Selesai;Semarang;2025-03-10
+ORD-1121;C0061;24;Laki-laki;Rumah Tangga;Set Panci;410.000;1;10;E-Wallet;Dikembalikan;Semarang;2025-11-27
+ORD-1396;C0071;43;Laki-laki;Olahraga;Sepatu Lari;480.000;2;10;Kartu Kredit;Selesai;Denpasar;2025-10-17
+ORD-1051;C0192;52;Laki-laki;Kecantikan;Lipstik Matte;70.000;1;0;Tidak diketahui;Dikembalikan;Makassar;2025-02-11
+ORD-1373;C0214;34;Laki-laki;Kecantikan;Parfum 50ml;210.000;1;20;Transfer Bank;Dikembalikan;Surabaya;2025-11-20
+ORD-1499;C0201;37;Perempuan;Olahraga;Sepatu Lari;480.000;1;0;Kartu Kredit;Selesai;Jakarta;2025-04-06
+ORD-1015;C0172;59;Perempuan;Olahraga;Dumbbell 5kg;150.000;4;5;Transfer Bank;Selesai;Malang;2025-06-09
+ORD-1377;C0119;46;Perempuan;Kecantikan;Lipstik Matte;70.000;1;0;E-Wallet;Selesai;Semarang;2025-12-16
+ORD-1260;C0129;44;Perempuan;Kecantikan;Parfum 50ml;210.000;1;10;E-Wallet;Selesai;Denpasar;2025-05-27
+ORD-1115;C0073;55;Perempuan;Olahraga;Matras Yoga;110.000;1;5;Transfer Bank;Selesai;Semarang;2025-06-26
+ORD-1355;C0182;44;Perempuan;Kecantikan;Parfum 50ml;210.000;3;10;Transfer Bank;Selesai;Denpasar;2025-10-20
+ORD-1004;C0097;23;Perempuan;Rumah Tangga;Rice Cooker;320.000;2;15;Transfer Bank;Selesai;Makassar;2025-08-24
+ORD-1364;C0062;59;Laki-laki;Elektronik;Earphone Bluetooth;250.000;2;0;Kartu Kredit;Selesai;Jakarta;2025-12-09
+ORD-1060;C0095;48;Perempuan;Kecantikan;Sunscreen SPF50;85.000;5;10;COD;Selesai;Denpasar;2025-06-06
+ORD-1447;C0214;37;Laki-laki;Rumah Tangga;Dispenser Mini;260.000;5;0;Tidak diketahui;Dibatalkan;Medan;2025-01-21
+ORD-1169;C0132;26;Perempuan;Olahraga;Sepatu Lari;480.000;1;10;COD;Selesai;Makassar;2025-03-18
+ORD-1400;C0103;57;Perempuan;Olahraga;Matras Yoga;110.000;4;20;E-Wallet;Selesai;Jakarta;2025-07-16
+ORD-1099;C0218;47;Laki-laki;Kecantikan;Lipstik Matte;70.000;2;10;Transfer Bank;Selesai;Medan;2025-04-08
+ORD-1250;C0110;30;Laki-laki;Elektronik;Powerbank 10000mAh;180.000;1;0;Transfer Bank;Selesai;Semarang;2025-08-14
+ORD-1352;C0196;33;Perempuan;Kecantikan;Facial Wash;55.000;5;0;Kartu Kredit;Selesai;Denpasar;2025-11-08
+ORD-1042;C0198;24;Perempuan;Kecantikan;Facial Wash;55.000;1;15;Kartu Kredit;Selesai;Medan;2025-11-25
+ORD-1269;C0078;;Laki-laki;Rumah Tangga;Blender;275.000;1;5;E-Wallet;Dikembalikan;Malang;2025-05-30
+ORD-1381;C0218;57;Laki-laki;Rumah Tangga;Dispenser Mini;260.000;1;0;E-Wallet;Dikembalikan;Bandung;2025-01-06
+ORD-1485;C0047;25;Laki-laki;Rumah Tangga;Set Panci;410.000;1;20;COD;Selesai;Medan;2025-08-17
+ORD-1080;C0124;40;Perempuan;Olahraga;Sepatu Lari;480.000;1;0;E-Wallet;Dibatalkan;Denpasar;2025-03-18
+ORD-1029;C0068;28;Perempuan;Kecantikan;Lipstik Matte;70.000;2;0;Transfer Bank;Dibatalkan;Denpasar;2025-11-21
+ORD-1307;C0156;48;Laki-laki;Rumah Tangga;Lampu LED Meja;95.000;1;0;Kartu Kredit;Selesai;Bandung;2025-12-02
+ORD-1180;C0186;20;Laki-laki;Elektronik;Webcam HD;300.000;4;0;Transfer Bank;Selesai;Denpasar;2025-04-29
+ORD-1495;C0083;18;Laki-laki;Elektronik;Mouse Wireless;120.000;1;15;Transfer Bank;Selesai;Makassar;2025-06-03
+ORD-1386;C0184;25;Laki-laki;Fashion;Kemeja Flannel;165.000;3;15;Transfer Bank;Selesai;Denpasar;2025-03-22
+ORD-1058;C0088;35;Perempuan;Kecantikan;Sunscreen SPF50;85.000;2;0;Transfer Bank;Selesai;Jakarta;2025-07-01
+ORD-1146;C0133;;Laki-laki;Kecantikan;Facial Wash;55.000;1;10;E-Wallet;Selesai;Denpasar;2025-07-08
+ORD-1063;C0033;35;Laki-laki;Fashion;Jaket Hoodie;220.000;2;15;E-Wallet;Selesai;Jakarta;2025-01-08
+ORD-1385;C0002;50;Laki-laki;Rumah Tangga;Lampu LED Meja;95.000;1;0;COD;Selesai;Malang;2025-09-04
+ORD-1112;C0145;60;Perempuan;Rumah Tangga;Rice Cooker;320.000;1;15;Transfer Bank;Selesai;Surabaya;2025-04-03
+ORD-1085;C0181;24;Perempuan;Elektronik;Keyboard Mekanik;450.000;2;0;Transfer Bank;Selesai;Bandung;2025-02-20
+ORD-1262;C0117;57;Laki-laki;Kecantikan;Sunscreen SPF50;85.000;2;15;E-Wallet;Selesai;Semarang;2025-12-04
+ORD-1444;C0034;29;Laki-laki;Olahraga;Matras Yoga;110.000;1;0;Transfer Bank;Selesai;Medan;2025-01-23
+ORD-1214;C0020;37;Laki-laki;Olahraga;Dumbbell 5kg;150.000;2;20;Kartu Kredit;Dibatalkan;Medan;2025-12-31
+ORD-1456;C0112;44;Laki-laki;Elektronik;Mouse Wireless;120.000;2;20;Transfer Bank;Selesai;Medan;2025-06-28
+ORD-1130;C0088;49;Laki-laki;Rumah Tangga;Set Panci;410.000;5;0;Transfer Bank;Selesai;Medan;2025-04-03
+ORD-1424;C0008;20;Perempuan;Fashion;Kemeja Flannel;165.000;3;5;COD;Selesai;Makassar;2025-09-27
+ORD-1097;C0187;27;Perempuan;Rumah Tangga;Dispenser Mini;260.000;3;10;Kartu Kredit;Selesai;Surabaya;2025-08-03
+ORD-1203;C0120;24;Perempuan;Rumah Tangga;Set Panci;410.000;4;0;COD;Selesai;Makassar;2025-09-20
+ORD-1247;C0095;47;Perempuan;Olahraga;Botol Minum;60.000;2;20;Transfer Bank;Dikembalikan;Makassar;2025-12-22
+ORD-1476;C0121;59;Perempuan;Kecantikan;Sunscreen SPF50;85.000;3;5;Kartu Kredit;Selesai;Bandung;2025-09-15
+ORD-1142;C0198;55;Laki-laki;Rumah Tangga;Blender;275.000;1;10;COD;Selesai;Bandung;2025-12-03
+ORD-1460;C0147;30;Laki-laki;Fashion;Celana Chino;190.000;1;20;Kartu Kredit;Selesai;Medan;2025-12-21
+ORD-1353;C0192;50;Perempuan;Fashion;Celana Chino;190.000;2;10;E-Wallet;Selesai;Makassar;2025-11-05
+ORD-1221;C0071;44;Perempuan;Rumah Tangga;Set Panci;410.000;3;0;COD;Selesai;Malang;2025-11-14
+ORD-1166;C0094;20;Perempuan;Fashion;Jaket Hoodie;220.000;2;0;COD;Selesai;Jakarta;2025-07-07
+ORD-1223;C0035;37;Perempuan;Rumah Tangga;Lampu LED Meja;95.000;1;0;Kartu Kredit;Selesai;Medan;2025-11-30
+ORD-1320;C0104;42;Laki-laki;Kecantikan;Lipstik Matte;70.000;1;15;E-Wallet;Dibatalkan;Medan;2025-05-13
+ORD-1245;C0033;26;Laki-laki;Kecantikan;Serum Wajah;135.000;2;20;E-Wallet;Dikembalikan;Bandung;2025-05-22
+ORD-1238;C0116;57;Laki-laki;Fashion;Celana Chino;190.000;4;5;E-Wallet;Selesai;Makassar;2025-12-27
+ORD-1082;C0085;24;Perempuan;Elektronik;Powerbank 10000mAh;180.000;2;5;Transfer Bank;Dibatalkan;Surabaya;2025-09-15
+ORD-1498;C0072;19;Perempuan;Rumah Tangga;Set Panci;410.000;2;20;E-Wallet;Selesai;Denpasar;2025-02-03
+ORD-1319;C0207;56;Perempuan;Rumah Tangga;Set Panci;410.000;2;15;Transfer Bank;Selesai;Makassar;2025-11-02
+ORD-1479;C0011;33;Perempuan;Elektronik;Keyboard Mekanik;450.000;2;10;Transfer Bank;Selesai;Jakarta;2025-08-22
+ORD-1431;C0006;29;Laki-laki;Elektronik;Powerbank 10000mAh;180.000;1;15;Kartu Kredit;Dikembalikan;Semarang;2025-01-26
+ORD-1271;C0061;44;Perempuan;Rumah Tangga;Rice Cooker;320.000;5;0;COD;Selesai;Jakarta;2025-04-16
+ORD-1296;C0111;59;Laki-laki;Olahraga;Resistance Band;65.000;1;0;COD;Selesai;Denpasar;2025-09-05
+ORD-1054;C0179;37;Laki-laki;Kecantikan;Facial Wash;55.000;1;5;COD;Selesai;Jakarta;2025-11-04
+ORD-1297;C0187;52;Perempuan;Fashion;Celana Chino;190.000;1;0;Transfer Bank;Selesai;Semarang;2025-12-23
+ORD-1281;C0039;20;Laki-laki;Fashion;Kemeja Flannel;165.000;1;10;Kartu Kredit;Selesai;Semarang;2025-05-21
+ORD-1140;C0075;45;Perempuan;Olahraga;Resistance Band;65.000;1;5;E-Wallet;Dibatalkan;Makassar;2025-05-04
+ORD-1272;C0096;47;Laki-laki;Elektronik;Powerbank 10000mAh;180.000;2;15;Kartu Kredit;Selesai;Surabaya;2025-09-24
+ORD-1371;C0037;37;Perempuan;Kecantikan;Parfum 50ml;210.000;2;10;Tidak diketahui;Selesai;Jakarta;2025-06-01
+ORD-1067;C0157;24;Laki-laki;Kecantikan;Lipstik Matte;70.000;1;0;E-Wallet;Selesai;Medan;2025-10-19
+ORD-1435;C0080;38;Laki-laki;Fashion;Celana Chino;190.000;2;10;Transfer Bank;Selesai;Jakarta;2025-07-19
+ORD-1264;C0070;51;Laki-laki;Elektronik;Earphone Bluetooth;250.000;2;10;Transfer Bank;Selesai;Semarang;2025-06-21
+ORD-1293;C0185;18;Laki-laki;Elektronik;Mouse Wireless;120.000;1;5;E-Wallet;Selesai;Denpasar;2025-05-12
+ORD-1366;C0017;31;Laki-laki;Olahraga;Matras Yoga;110.000;3;0;Kartu Kredit;Selesai;Denpasar;2025-11-21
+ORD-1100;C0053;22;Laki-laki;Rumah Tangga;Blender;275.000;3;0;COD;Dikembalikan;Medan;2025-03-06
+ORD-1282;C0205;51;Laki-laki;Elektronik;Mouse Wireless;120.000;5;20;COD;Selesai;Jakarta;2025-11-21
+ORD-1149;C0009;26;Laki-laki;Fashion;Sepatu Sneakers;350.000;3;0;COD;Selesai;Medan;2025-12-14
+ORD-1016;C0057;18;Laki-laki;Fashion;Kaos Polos;75.000;1;0;COD;Selesai;Jakarta;2025-11-19
+ORD-1164;C0079;49;Perempuan;Fashion;Celana Chino;190.000;4;10;Kartu Kredit;Selesai;Surabaya;2025-09-21
+ORD-1047;C0002;40;Perempuan;Olahraga;Matras Yoga;110.000;3;20;Kartu Kredit;Selesai;Denpasar;2025-10-22
+ORD-1087;C0066;47;Perempuan;Fashion;Celana Chino;190.000;4;5;COD;Dibatalkan;Jakarta;2025-12-21
+ORD-1038;C0045;57;Perempuan;Kecantikan;Facial Wash;55.000;2;0;COD;Selesai;Denpasar;2025-12-13
+ORD-1419;C0125;46;Laki-laki;Rumah Tangga;Set Panci;410.000;2;5;E-Wallet;Selesai;Denpasar;2025-06-16
+ORD-1368;C0105;42;Perempuan;Elektronik;Webcam HD;300.000;1;0;Kartu Kredit;Dibatalkan;Denpasar;2025-04-27
+ORD-1389;C0124;28;Laki-laki;Fashion;Celana Chino;190.000;2;20;E-Wallet;Selesai;Denpasar;2025-11-07
+ORD-1205;C0176;39;Perempuan;Olahraga;Dumbbell 5kg;150.000;5;15;Kartu Kredit;Selesai;Malang;2025-09-13
+ORD-1173;C0218;21;Laki-laki;Fashion;Celana Chino;190.000;2;15;Kartu Kredit;Selesai;Medan;2025-12-28
+ORD-1074;C0127;;Perempuan;Elektronik;Powerbank 10000mAh;180.000;1;0;COD;Selesai;Jakarta;2025-06-18
+ORD-1279;C0166;46;Laki-laki;Olahraga;Botol Minum;60.000;4;20;COD;Selesai;Surabaya;2025-11-07
+ORD-1105;C0038;22;Laki-laki;Kecantikan;Serum Wajah;135.000;2;10;COD;Selesai;Semarang;2025-02-11
+ORD-1496;C0123;48;Laki-laki;Fashion;Jaket Hoodie;220.000;1;15;Kartu Kredit;Selesai;Bandung;2025-06-23
+ORD-1299;C0079;43;Perempuan;Rumah Tangga;Rice Cooker;320.000;4;0;Transfer Bank;Selesai;Malang;2025-08-31
+ORD-1017;C0055;52;Laki-laki;Olahraga;Dumbbell 5kg;150.000;1;5;Kartu Kredit;Selesai;Malang;2025-05-23
+ORD-1315;C0197;18;Perempuan;Kecantikan;Parfum 50ml;210.000;2;10;Transfer Bank;Selesai;Bandung;2025-01-11
+ORD-1092;C0129;35;Laki-laki;Kecantikan;Sunscreen SPF50;85.000;4;5;COD;Dikembalikan;Semarang;2025-12-17
+ORD-1089;C0076;36;Laki-laki;Kecantikan;Facial Wash;55.000;1;10;Transfer Bank;Selesai;Denpasar;2025-12-19
+ORD-1421;C0070;46;Perempuan;Rumah Tangga;Set Panci;410.000;1;0;Tidak diketahui;Selesai;Malang;2025-11-06
+ORD-1141;C0121;20;Perempuan;Elektronik;Webcam HD;300.000;1;0;COD;Selesai;Makassar;2025-11-13
+ORD-1195;C0190;20;Perempuan;Elektronik;Earphone Bluetooth;250.000;1;0;Transfer Bank;Selesai;Malang;2025-11-08
+ORD-1206;C0139;59;Laki-laki;Fashion;Jaket Hoodie;220.000;3;0;Transfer Bank;Dikembalikan;Jakarta;2025-12-06
+ORD-1103;C0132;55;Laki-laki;Elektronik;Keyboard Mekanik;450.000;2;10;Transfer Bank;Dikembalikan;Malang;2025-08-18
+ORD-1345;C0115;38;Laki-laki;Olahraga;Sepatu Lari;480.000;2;0;Transfer Bank;Selesai;Malang;2025-02-15
+ORD-1175;C0077;;Laki-laki;Olahraga;Botol Minum;60.000;1;0;COD;Selesai;Malang;2025-04-26
+ORD-1171;C0186;58;Laki-laki;Elektronik;Keyboard Mekanik;450.000;1;15;E-Wallet;Dibatalkan;Malang;2025-10-26
+ORD-1369;C0159;22;Laki-laki;Elektronik;Webcam HD;300.000;1;10;Transfer Bank;Selesai;Surabaya;2025-01-04
+ORD-1158;C0163;53;Perempuan;Olahraga;Botol Minum;60.000;2;10;Transfer Bank;Selesai;Bandung;2025-02-10
+ORD-1071;C0113;23;Laki-laki;Kecantikan;Lipstik Matte;70.000;2;10;COD;Selesai;Denpasar;2025-09-14
+ORD-1134;C0042;30;Laki-laki;Rumah Tangga;Lampu LED Meja;95.000;1;5;COD;Selesai;Semarang;2025-09-15
+ORD-1285;C0205;42;Perempuan;Olahraga;Matras Yoga;110.000;1;10;COD;Dikembalikan;Bandung;2025-04-23
+ORD-1480;C0199;36;Perempuan;Rumah Tangga;Lampu LED Meja;95.000;1;10;Transfer Bank;Dibatalkan;Bandung;2025-07-23
+ORD-1376;C0094;;Perempuan;Rumah Tangga;Dispenser Mini;260.000;1;0;E-Wallet;Dibatalkan;Bandung;2025-03-20
+ORD-1229;C0133;53;Laki-laki;Elektronik;Mouse Wireless;120.000;1;5;E-Wallet;Selesai;Malang;2025-04-24
+ORD-1240;C0138;36;Laki-laki;Fashion;Jaket Hoodie;220.000;2;20;Kartu Kredit;Selesai;Malang;2025-01-17
+ORD-1337;C0011;36;Perempuan;Rumah Tangga;Set Panci;410.000;1;0;Transfer Bank;Dikembalikan;Makassar;2025-11-28
+ORD-1274;C0020;30;Laki-laki;Rumah Tangga;Set Panci;410.000;1;0;Kartu Kredit;Selesai;Surabaya;2025-08-20
+ORD-1361;C0011;;Perempuan;Rumah Tangga;Lampu LED Meja;95.000;3;15;COD;Selesai;Jakarta;2025-12-30
+ORD-1239;C0105;49;Perempuan;Kecantikan;Parfum 50ml;210.000;1;0;Transfer Bank;Dikembalikan;Malang;2025-09-16
+ORD-1019;C0115;26;Perempuan;Kecantikan;Lipstik Matte;70.000;1;0;Tidak diketahui;Selesai;Bandung;2025-11-18
+ORD-1178;C0014;24;Perempuan;Elektronik;Webcam HD;300.000;2;0;E-Wallet;Selesai;Makassar;2025-04-26
+ORD-1391;C0212;27;Laki-laki;Fashion;Sepatu Sneakers;350.000;1;10;Transfer Bank;Selesai;Bandung;2025-09-16
+ORD-1021;C0100;34;Perempuan;Kecantikan;Serum Wajah;135.000;1;15;Kartu Kredit;Selesai;Semarang;2025-03-26
+ORD-1056;C0167;35;Perempuan;Fashion;Celana Chino;190.000;1;15;COD;Selesai;Malang;2025-04-01
+ORD-1325;C0118;27;Perempuan;Fashion;Jaket Hoodie;220.000;3;5;COD;Selesai;Bandung;2025-07-29
+ORD-1451;C0115;43;Laki-laki;Olahraga;Botol Minum;60.000;5;10;Transfer Bank;Selesai;Jakarta;2025-07-04
+ORD-1365;C0007;51;Perempuan;Kecantikan;Lipstik Matte;70.000;1;0;E-Wallet;Selesai;Malang;2025-10-04
+ORD-1035;C0089;38;Perempuan;Rumah Tangga;Rice Cooker;320.000;1;10;E-Wallet;Selesai;Surabaya;2025-02-25
+ORD-1182;C0042;47;Perempuan;Olahraga;Sepatu Lari;480.000;1;0;COD;Selesai;Bandung;2025-11-11
+ORD-1185;C0120;37;Laki-laki;Rumah Tangga;Blender;275.000;2;15;COD;Dibatalkan;Denpasar;2025-02-01
+ORD-1151;C0133;42;Laki-laki;Rumah Tangga;Blender;275.000;3;15;Kartu Kredit;Selesai;Semarang;2025-11-16
+ORD-1208;C0005;18;Perempuan;Olahraga;Resistance Band;65.000;1;15;COD;Selesai;Jakarta;2025-09-05
+ORD-1246;C0069;58;Perempuan;Kecantikan;Facial Wash;55.000;1;15;Transfer Bank;Selesai;Denpasar;2025-03-14
+ORD-1095;C0057;59;Laki-laki;Olahraga;Resistance Band;65.000;4;0;Kartu Kredit;Selesai;Malang;2025-06-17
+ORD-1382;C0017;34;Perempuan;Kecantikan;Lipstik Matte;70.000;1;0;COD;Selesai;Medan;2025-12-08
+ORD-1422;C0054;28;Perempuan;Fashion;Jaket Hoodie;220.000;1;5;Transfer Bank;Selesai;Surabaya;2025-12-25
+ORD-1098;C0061;;Laki-laki;Elektronik;Mouse Wireless;120.000;2;15;COD;Selesai;Makassar;2025-04-22
+ORD-1236;C0173;26;Perempuan;Fashion;Jaket Hoodie;220.000;1;0;E-Wallet;Selesai;Surabaya;2025-11-11
+ORD-1455;C0210;24;Perempuan;Fashion;Celana Chino;190.000;2;10;Kartu Kredit;Selesai;Jakarta;2025-12-20
+ORD-1474;C0191;58;Perempuan;Rumah Tangga;Lampu LED Meja;95.000;3;0;E-Wallet;Selesai;Bandung;2025-07-30
+ORD-1155;C0017;37;Perempuan;Olahraga;Dumbbell 5kg;150.000;2;20;Kartu Kredit;Selesai;Malang;2025-11-10
+ORD-1123;C0078;35;Laki-laki;Kecantikan;Serum Wajah;135.000;2;0;Kartu Kredit;Selesai;Makassar;2025-08-29
+ORD-1114;C0114;60;Perempuan;Fashion;Kemeja Flannel;165.000;2;5;COD;Selesai;Malang;2025-11-09
+ORD-1284;C0197;55;Laki-laki;Rumah Tangga;Rice Cooker;320.000;1;15;E-Wallet;Selesai;Bandung;2025-08-30
+ORD-1436;C0014;60;Laki-laki;Kecantikan;Lipstik Matte;70.000;1;5;COD;Selesai;Surabaya;2025-04-12
+ORD-1172;C0211;33;Laki-laki;Elektronik;Webcam HD;300.000;1;5;COD;Selesai;Surabaya;2025-12-05
+ORD-1109;C0193;45;Laki-laki;Elektronik;Keyboard Mekanik;450.000;2;0;Transfer Bank;Selesai;Semarang;2025-07-01
+ORD-1079;C0071;;Perempuan;Olahraga;Resistance Band;65.000;3;0;COD;Selesai;Semarang;2025-03-11
+ORD-1062;C0195;51;Perempuan;Fashion;Celana Chino;190.000;3;0;E-Wallet;Selesai;Surabaya;2025-05-22
+ORD-1472;C0139;30;Laki-laki;Rumah Tangga;Lampu LED Meja;95.000;2;10;E-Wallet;Selesai;Semarang;2025-11-19
+ORD-1126;C0113;46;Laki-laki;Elektronik;Webcam HD;300.000;1;0;Kartu Kredit;Selesai;Makassar;2025-11-23
+ORD-1329;C0075;47;Perempuan;Olahraga;Botol Minum;60.000;4;0;COD;Selesai;Denpasar;2025-11-10
+ORD-1314;C0042;54;Laki-laki;Elektronik;Mouse Wireless;120.000;2;15;E-Wallet;Selesai;Medan;2025-01-15
+ORD-1492;C0082;34;Perempuan;Olahraga;Botol Minum;60.000;2;5;Kartu Kredit;Selesai;Bandung;2025-08-07
+ORD-1427;C0137;18;Perempuan;Olahraga;Dumbbell 5kg;150.000;1;20;Kartu Kredit;Selesai;Malang;2025-06-26
+ORD-1278;C0200;32;Laki-laki;Kecantikan;Serum Wajah;135.000;3;0;Transfer Bank;Selesai;Medan;2025-11-27
+ORD-1414;C0108;41;Perempuan;Olahraga;Botol Minum;60.000;1;0;E-Wallet;Selesai;Denpasar;2025-12-07
+ORD-1025;C0077;47;Perempuan;Rumah Tangga;Lampu LED Meja;95.000;1;10;Transfer Bank;Selesai;Surabaya;2025-03-09
+ORD-1478;C0199;20;Perempuan;Rumah Tangga;Lampu LED Meja;95.000;1;15;Transfer Bank;Selesai;Makassar;2025-05-07
+ORD-1354;C0173;26;Laki-laki;Fashion;Sepatu Sneakers;350.000;2;20;COD;Selesai;Makassar;2025-05-29
+ORD-1127;C0166;39;Laki-laki;Rumah Tangga;Dispenser Mini;260.000;1;15;Kartu Kredit;Selesai;Makassar;2025-01-27
+ORD-1430;C0117;57;Perempuan;Fashion;Kaos Polos;75.000;2;5;E-Wallet;Selesai;Semarang;2025-11-21
+ORD-1425;C0152;56;Perempuan;Kecantikan;Sunscreen SPF50;85.000;2;15;COD;Selesai;Denpasar;2025-12-24
+ORD-1179;C0122;48;Laki-laki;Olahraga;Dumbbell 5kg;150.000;1;15;Transfer Bank;Dikembalikan;Semarang;2025-07-28
+ORD-1440;C0113;53;Perempuan;Fashion;Jaket Hoodie;220.000;1;0;COD;Selesai;Malang;2025-01-21
+ORD-1378;C0036;52;Laki-laki;Olahraga;Matras Yoga;110.000;2;15;Transfer Bank;Dikembalikan;Semarang;2025-05-24
+ORD-1224;C0084;42;Perempuan;Rumah Tangga;Lampu LED Meja;95.000;1;10;E-Wallet;Selesai;Denpasar;2025-10-22
+ORD-1356;C0052;35;Laki-laki;Kecantikan;Sunscreen SPF50;85.000;2;0;Transfer Bank;Dibatalkan;Semarang;2025-01-28
+ORD-1094;C0192;34;Perempuan;Olahraga;Matras Yoga;110.000;1;0;Kartu Kredit;Selesai;Makassar;2025-08-21
+ORD-1070;C0192;54;Perempuan;Fashion;Kaos Polos;75.000;1;15;COD;Dibatalkan;Malang;2025-12-20
+ORD-1037;C0171;44;Perempuan;Rumah Tangga;Rice Cooker;320.000;2;10;E-Wallet;Selesai;Denpasar;2025-06-03
+ORD-1161;C0124;47;Laki-laki;Kecantikan;Serum Wajah;135.000;2;0;COD;Dikembalikan;Makassar;2025-12-14
+ORD-1012;C0028;58;Perempuan;Rumah Tangga;Dispenser Mini;260.000;1;20;E-Wallet;Selesai;Medan;2025-04-02
+ORD-1145;C0032;41;Perempuan;Rumah Tangga;Rice Cooker;320.000;2;5;COD;Selesai;Denpasar;2025-12-02
+ORD-1358;C0202;38;Laki-laki;Elektronik;Keyboard Mekanik;450.000;2;0;Kartu Kredit;Selesai;Jakarta;2025-07-18
+ORD-1128;C0150;60;Laki-laki;Rumah Tangga;Dispenser Mini;260.000;1;15;Kartu Kredit;Selesai;Makassar;2025-03-18
+ORD-1290;C0177;36;Laki-laki;Olahraga;Dumbbell 5kg;150.000;2;15;Kartu Kredit;Dikembalikan;Bandung;2025-07-13
+ORD-1010;C0203;45;Laki-laki;Elektronik;Earphone Bluetooth;250.000;1;5;COD;Selesai;Denpasar;2025-03-20
+ORD-1379;C0209;55;Perempuan;Elektronik;Earphone Bluetooth;250.000;4;10;COD;Selesai;Medan;2025-09-17
+ORD-1177;C0179;35;Laki-laki;Kecantikan;Lipstik Matte;70.000;2;10;E-Wallet;Selesai;Surabaya;2025-12-18
+ORD-1232;C0144;45;Perempuan;Fashion;Kemeja Flannel;165.000;3;15;E-Wallet;Selesai;Medan;2025-11-11
+ORD-1211;C0218;23;Laki-laki;Fashion;Kemeja Flannel;165.000;1;5;Kartu Kredit;Selesai;Surabaya;2025-06-03
+ORD-1129;C0165;39;Laki-laki;Olahraga;Matras Yoga;110.000;2;5;COD;Selesai;Surabaya;2025-06-08
+ORD-1144;C0209;52;Perempuan;Elektronik;Mouse Wireless;120.000;1;15;E-Wallet;Selesai;Semarang;2025-06-08
+ORD-1242;C0210;23;Perempuan;Elektronik;Keyboard Mekanik;450.000;3;0;E-Wallet;Dikembalikan;Surabaya;2025-05-15
+ORD-1008;C0146;38;Laki-laki;Rumah Tangga;Rice Cooker;320.000;1;15;Kartu Kredit;Selesai;Malang;2025-04-19
+ORD-1255;C0193;25;Perempuan;Olahraga;Sepatu Lari;480.000;5;0;E-Wallet;Selesai;Makassar;2025-11-05
+ORD-1454;C0077;23;Perempuan;Olahraga;Dumbbell 5kg;150.000;2;15;COD;Selesai;Medan;2025-04-30
+ORD-1339;C0117;35;Perempuan;Rumah Tangga;Blender;275.000;3;15;E-Wallet;Selesai;Malang;2025-02-28
+ORD-1009;C0138;34;Perempuan;Rumah Tangga;Blender;275.000;1;0;Kartu Kredit;Selesai;Denpasar;2025-05-07
+ORD-1157;C0015;25;Laki-laki;Fashion;Celana Chino;190.000;1;0;E-Wallet;Selesai;Semarang;2025-09-15
+ORD-1028;C0053;58;Perempuan;Rumah Tangga;Dispenser Mini;260.000;1;20;Transfer Bank;Selesai;Malang;2025-04-18
+ORD-1267;C0082;35;Laki-laki;Rumah Tangga;Blender;275.000;1;15;Transfer Bank;Selesai;Makassar;2025-08-02
+ORD-1065;C0148;58;Laki-laki;Elektronik;Earphone Bluetooth;250.000;1;10;COD;Selesai;Bandung;2025-07-25
+ORD-1256;C0154;56;Perempuan;Rumah Tangga;Rice Cooker;320.000;3;15;COD;Selesai;Jakarta;2025-05-08
+ORD-1322;C0168;23;Laki-laki;Olahraga;Dumbbell 5kg;150.000;1;20;COD;Selesai;Makassar;2025-12-15
+ORD-1154;C0036;33;Perempuan;Fashion;Jaket Hoodie;220.000;1;10;COD;Selesai;Jakarta;2025-11-26
+ORD-1049;C0137;19;Perempuan;Fashion;Celana Chino;190.000;1;5;E-Wallet;Selesai;Jakarta;2025-03-07
+ORD-1209;C0173;45;Laki-laki;Rumah Tangga;Rice Cooker;320.000;4;10;E-Wallet;Selesai;Surabaya;2025-09-15
+ORD-1288;C0181;27;Laki-laki;Rumah Tangga;Blender;275.000;5;0;Kartu Kredit;Selesai;Makassar;2025-11-19
+ORD-1002;C0184;59;Perempuan;Olahraga;Resistance Band;65.000;1;0;Transfer Bank;Dikembalikan;Medan;2025-01-14
+ORD-1270;C0060;52;Perempuan;Olahraga;Dumbbell 5kg;150.000;4;0;Kartu Kredit;Dikembalikan;Jakarta;2025-12-01
+ORD-1266;C0099;27;Laki-laki;Elektronik;Powerbank 10000mAh;180.000;2;15;Kartu Kredit;Selesai;Jakarta;2025-01-24
+ORD-1331;C0167;20;Perempuan;Elektronik;Webcam HD;300.000;3;10;Transfer Bank;Selesai;Semarang;2025-12-23
+ORD-1338;C0044;39;Perempuan;Elektronik;Earphone Bluetooth;250.000;4;0;Transfer Bank;Selesai;Malang;2025-03-12
+ORD-1096;C0127;25;Laki-laki;Fashion;Kaos Polos;75.000;4;0;Kartu Kredit;Selesai;Medan;2025-01-20
+ORD-1469;C0091;40;Perempuan;Kecantikan;Sunscreen SPF50;85.000;5;10;COD;Selesai;Medan;2025-01-10
+ORD-1497;C0015;51;Perempuan;Rumah Tangga;Lampu LED Meja;95.000;2;0;E-Wallet;Selesai;Makassar;2025-07-31
+ORD-1370;C0113;42;Perempuan;Rumah Tangga;Dispenser Mini;260.000;1;10;E-Wallet;Selesai;Jakarta;2025-02-14
+ORD-1117;C0129;53;Perempuan;Fashion;Celana Chino;190.000;1;15;Transfer Bank;Selesai;Surabaya;2025-09-30
+ORD-1046;C0139;47;Perempuan;Fashion;Kaos Polos;75.000;1;5;Kartu Kredit;Dikembalikan;Jakarta;2025-08-01
+ORD-1162;C0132;53;Laki-laki;Rumah Tangga;Lampu LED Meja;95.000;1;0;COD;Selesai;Makassar;2025-03-08
+ORD-1390;C0088;47;Laki-laki;Olahraga;Botol Minum;60.000;1;0;Transfer Bank;Selesai;Medan;2025-03-27
+ORD-1118;C0148;45;Perempuan;Elektronik;Keyboard Mekanik;450.000;1;5;Transfer Bank;Selesai;Denpasar;2025-02-09
+ORD-1289;C0041;45;Perempuan;Elektronik;Mouse Wireless;120.000;1;10;COD;Selesai;Makassar;2025-06-04
+ORD-1078;C0214;48;Perempuan;Rumah Tangga;Dispenser Mini;260.000;1;0;Kartu Kredit;Selesai;Medan;2025-12-28
+ORD-1397;C0079;54;Perempuan;Rumah Tangga;Dispenser Mini;260.000;2;20;Transfer Bank;Dikembalikan;Denpasar;2025-10-12
+ORD-1064;C0121;48;Perempuan;Kecantikan;Serum Wajah;135.000;1;0;COD;Selesai;Makassar;2025-01-07
+ORD-1398;C0026;;Perempuan;Fashion;Celana Chino;190.000;3;10;Transfer Bank;Selesai;Makassar;2025-12-25
+ORD-1406;C0151;19;Perempuan;Fashion;Jaket Hoodie;220.000;1;5;E-Wallet;Dibatalkan;Surabaya;2025-08-23
+ORD-1231;C0018;37;Laki-laki;Kecantikan;Lipstik Matte;70.000;1;0;Transfer Bank;Dibatalkan;Surabaya;2025-12-11
+ORD-1298;C0110;23;Perempuan;Olahraga;Resistance Band;65.000;1;0;E-Wallet;Selesai;Malang;2025-12-01
+ORD-1187;C0212;31;Laki-laki;Olahraga;Sepatu Lari;480.000;2;10;COD;Selesai;Surabaya;2025-10-03
+ORD-1343;C0218;48;Perempuan;Olahraga;Resistance Band;65.000;1;5;COD;Selesai;Bandung;2025-11-17
+ORD-1200;C0069;42;Laki-laki;Elektronik;Keyboard Mekanik;450.000;1;20;E-Wallet;Selesai;Surabaya;2025-11-02
+ORD-1348;C0163;36;Perempuan;Fashion;Kaos Polos;75.000;1;0;Kartu Kredit;Selesai;Surabaya;2025-06-24
+ORD-1122;C0194;54;Perempuan;Elektronik;Powerbank 10000mAh;180.000;3;15;COD;Selesai;Makassar;2025-11-18
+ORD-1475;C0146;57;Laki-laki;Elektronik;Webcam HD;300.000;1;0;COD;Selesai;Medan;2025-11-12
+ORD-1439;C0202;59;Perempuan;Kecantikan;Sunscreen SPF50;85.000;2;0;Kartu Kredit;Selesai;Malang;2025-06-12
+ORD-1308;C0096;19;Perempuan;Kecantikan;Lipstik Matte;70.000;1;20;Kartu Kredit;Dibatalkan;Semarang;2025-12-09
+ORD-1468;C0183;19;Laki-laki;Fashion;Sepatu Sneakers;350.000;4;0;COD;Selesai;Medan;2025-08-23
+ORD-1159;C0145;;Laki-laki;Fashion;Sepatu Sneakers;350.000;1;15;COD;Selesai;Surabaya;2025-12-27
+ORD-1086;C0038;33;Perempuan;Elektronik;Mouse Wireless;120.000;1;0;Kartu Kredit;Selesai;Bandung;2025-07-03
+ORD-1226;C0065;60;Laki-laki;Kecantikan;Sunscreen SPF50;85.000;3;0;Kartu Kredit;Selesai;Denpasar;2025-11-21
+ORD-1263;C0134;51;Perempuan;Elektronik;Powerbank 10000mAh;180.000;1;15;COD;Dikembalikan;Bandung;2025-12-12
+ORD-1332;C0013;25;Perempuan;Elektronik;Earphone Bluetooth;250.000;1;10;COD;Selesai;Malang;2025-12-01
+ORD-1407;C0133;52;Laki-laki;Fashion;Jaket Hoodie;220.000;1;0;Kartu Kredit;Dibatalkan;Semarang;2025-07-31
+ORD-1077;C0058;25;Perempuan;Fashion;Jaket Hoodie;220.000;2;0;Kartu Kredit;Dibatalkan;Surabaya;2025-12-03
+ORD-1395;C0206;38;Perempuan;Olahraga;Matras Yoga;110.000;1;5;COD;Selesai;Makassar;2025-11-23
+ORD-1458;C0024;32;Perempuan;Kecantikan;Facial Wash;55.000;3;0;E-Wallet;Selesai;Semarang;2025-11-01
+ORD-1088;C0089;55;Perempuan;Olahraga;Dumbbell 5kg;150.000;2;5;COD;Selesai;Denpasar;2025-02-07
+ORD-1183;C0104;45;Perempuan;Fashion;Kemeja Flannel;165.000;1;0;E-Wallet;Selesai;Surabaya;2025-11-09
+ORD-1106;C0155;45;Laki-laki;Olahraga;Resistance Band;65.000;3;15;Tidak diketahui;Selesai;Surabaya;2025-05-31
+ORD-1405;C0209;54;Perempuan;Elektronik;Webcam HD;300.000;5;10;Kartu Kredit;Dikembalikan;Malang;2025-05-12
+ORD-1050;C0055;47;Perempuan;Fashion;Kaos Polos;75.000;3;5;COD;Dikembalikan;Makassar;2025-05-14
+ORD-1387;C0166;44;Laki-laki;Kecantikan;Facial Wash;55.000;1;10;E-Wallet;Selesai;Medan;2025-04-18
+ORD-1006;C0175;59;Laki-laki;Rumah Tangga;Blender;275.000;2;0;E-Wallet;Selesai;Bandung;2025-12-10
+ORD-1018;C0109;44;Perempuan;Elektronik;Earphone Bluetooth;250.000;2;15;Transfer Bank;Selesai;Jakarta;2025-12-04
+ORD-1235;C0100;57;Perempuan;Kecantikan;Parfum 50ml;210.000;1;20;Kartu Kredit;Selesai;Surabaya;2025-11-24
+ORD-1409;C0068;31;Laki-laki;Fashion;Celana Chino;190.000;3;20;COD;Selesai;Medan;2025-11-28
+ORD-1417;C0215;58;Laki-laki;Elektronik;Powerbank 10000mAh;180.000;2;0;COD;Selesai;Malang;2025-12-16
+ORD-1107;C0117;43;Perempuan;Kecantikan;Sunscreen SPF50;85.000;1;0;COD;Selesai;Surabaya;2025-07-31
+ORD-1135;C0196;28;Perempuan;Elektronik;Webcam HD;300.000;4;0;Kartu Kredit;Selesai;Malang;2025-03-05
+ORD-1410;C0170;49;Laki-laki;Elektronik;Earphone Bluetooth;250.000;3;0;COD;Selesai;Jakarta;2025-02-10
+ORD-1227;C0178;44;Laki-laki;Kecantikan;Parfum 50ml;210.000;2;20;Transfer Bank;Selesai;Makassar;2025-07-25
+ORD-1215;C0036;23;Perempuan;Olahraga;Botol Minum;60.000;1;0;Transfer Bank;Selesai;Jakarta;2025-07-16
+ORD-1191;C0197;26;Perempuan;Elektronik;Earphone Bluetooth;250.000;5;5;Kartu Kredit;Selesai;Makassar;2025-12-06
+ORD-1470;C0072;32;Laki-laki;Rumah Tangga;Lampu LED Meja;95.000;4;15;E-Wallet;Selesai;Makassar;2025-01-16
+ORD-1321;C0077;28;Laki-laki;Olahraga;Sepatu Lari;480.000;1;0;COD;Dibatalkan;Semarang;2025-12-10
+ORD-1283;C0129;38;Perempuan;Olahraga;Sepatu Lari;480.000;1;0;E-Wallet;Selesai;Semarang;2025-06-26
+ORD-1030;C0150;53;Laki-laki;Fashion;Sepatu Sneakers;350.000;1;0;COD;Selesai;Denpasar;2025-01-19
+ORD-1170;C0182;54;Perempuan;Rumah Tangga;Dispenser Mini;260.000;3;0;COD;Dibatalkan;Malang;2025-09-18
+ORD-1181;C0003;37;Laki-laki;Kecantikan;Sunscreen SPF50;85.000;1;15;Kartu Kredit;Selesai;Makassar;2025-05-29
+ORD-1101;C0038;26;Perempuan;Fashion;Sepatu Sneakers;350.000;1;20;Transfer Bank;Selesai;Bandung;2025-01-02
+ORD-1198;C0194;52;Perempuan;Rumah Tangga;Lampu LED Meja;95.000;3;0;E-Wallet;Selesai;Medan;2025-12-06
+ORD-1210;C0091;35;Perempuan;Fashion;Sepatu Sneakers;350.000;1;5;Kartu Kredit;Selesai;Surabaya;2025-09-27
+ORD-1136;C0107;21;Perempuan;Fashion;Celana Chino;190.000;1;0;COD;Selesai;Makassar;2025-06-28
+ORD-1437;C0011;55;Perempuan;Fashion;Jaket Hoodie;220.000;1;0;E-Wallet;Selesai;Bandung;2025-11-01
+ORD-1199;C0143;51;Laki-laki;Elektronik;Webcam HD;300.000;1;0;COD;Selesai;Denpasar;2025-07-31
+ORD-1374;C0075;60;Laki-laki;Olahraga;Sepatu Lari;480.000;1;15;Kartu Kredit;Selesai;Semarang;2025-11-27
+ORD-1167;C0196;53;Perempuan;Rumah Tangga;Rice Cooker;320.000;1;0;Kartu Kredit;Selesai;Surabaya;2025-07-17
+ORD-1442;C0130;42;Laki-laki;Rumah Tangga;Lampu LED Meja;95.000;2;0;E-Wallet;Selesai;Jakarta;2025-01-01
+ORD-1137;C0167;39;Laki-laki;Elektronik;Mouse Wireless;120.000;1;20;Kartu Kredit;Dibatalkan;Bandung;2025-02-20
+ORD-1286;C0091;54;Laki-laki;Rumah Tangga;Dispenser Mini;260.000;3;20;Kartu Kredit;Selesai;Medan;2025-01-15
+ORD-1336;C0200;50;Laki-laki;Olahraga;Sepatu Lari;480.000;4;15;E-Wallet;Selesai;Surabaya;2025-03-18
+ORD-1132;C0185;33;Perempuan;Olahraga;Dumbbell 5kg;150.000;3;20;Kartu Kredit;Selesai;Semarang;2025-12-22
+ORD-1040;C0163;57;Perempuan;Fashion;Kaos Polos;75.000;3;20;E-Wallet;Dibatalkan;Surabaya;2025-05-26
+ORD-1216;C0199;38;Laki-laki;Olahraga;Resistance Band;65.000;3;5;Kartu Kredit;Selesai;Semarang;2025-11-01
+ORD-1044;C0193;33;Perempuan;Kecantikan;Sunscreen SPF50;85.000;2;0;Kartu Kredit;Selesai;Malang;2025-09-01
+ORD-1055;C0211;49;Laki-laki;Olahraga;Botol Minum;60.000;5;15;Kartu Kredit;Dibatalkan;Denpasar;2025-01-07
+ORD-1484;C0086;54;Laki-laki;Olahraga;Sepatu Lari;480.000;3;0;Transfer Bank;Selesai;Bandung;2025-01-23
+ORD-1300;C0098;41;Laki-laki;Olahraga;Sepatu Lari;480.000;1;5;Kartu Kredit;Selesai;Malang;2025-04-05
+ORD-1464;C0190;;Laki-laki;Kecantikan;Facial Wash;55.000;2;20;COD;Selesai;Medan;2025-01-12
+ORD-1036;C0207;52;Laki-laki;Elektronik;Keyboard Mekanik;450.000;1;15;COD;Selesai;Makassar;2025-01-01
+ORD-1316;C0182;59;Perempuan;Rumah Tangga;Dispenser Mini;260.000;4;20;COD;Selesai;Denpasar;2025-06-06
+ORD-1310;C0195;51;Perempuan;Kecantikan;Sunscreen SPF50;85.000;2;0;Transfer Bank;Selesai;Jakarta;2025-07-28
+ORD-1277;C0210;29;Laki-laki;Olahraga;Matras Yoga;110.000;3;10;E-Wallet;Selesai;Denpasar;2025-12-13
+ORD-1125;C0129;27;Laki-laki;Olahraga;Dumbbell 5kg;150.000;1;20;COD;Dibatalkan;Malang;2025-06-14
+ORD-1143;C0047;26;Laki-laki;Fashion;Celana Chino;190.000;1;0;Transfer Bank;Selesai;Malang;2025-12-23
+ORD-1111;C0143;19;Perempuan;Olahraga;Resistance Band;65.000;1;15;COD;Selesai;Jakarta;2025-11-11
+ORD-1324;C0098;51;Perempuan;Fashion;Sepatu Sneakers;350.000;1;20;E-Wallet;Selesai;Denpasar;2025-03-03
+ORD-1333;C0003;37;Perempuan;Fashion;Kemeja Flannel;165.000;2;0;E-Wallet;Selesai;Surabaya;2025-12-22
+ORD-1394;C0140;;Perempuan;Fashion;Kaos Polos;75.000;1;15;Transfer Bank;Selesai;Medan;2025-05-26
+ORD-1481;C0116;23;Laki-laki;Olahraga;Dumbbell 5kg;150.000;3;15;Tidak diketahui;Selesai;Bandung;2025-08-26
+ORD-1108;C0111;24;Perempuan;Fashion;Celana Chino;190.000;2;10;COD;Dibatalkan;Bandung;2025-11-03
+ORD-1452;C0057;31;Perempuan;Fashion;Jaket Hoodie;220.000;3;15;COD;Selesai;Jakarta;2025-01-04
+ORD-1013;C0005;25;Perempuan;Olahraga;Matras Yoga;110.000;1;0;Transfer Bank;Selesai;Semarang;2025-11-03
+ORD-1273;C0034;33;Laki-laki;Olahraga;Resistance Band;65.000;3;20;Kartu Kredit;Dibatalkan;Semarang;2025-02-01
+ORD-1048;C0070;45;Perempuan;Olahraga;Resistance Band;65.000;1;15;Kartu Kredit;Dibatalkan;Jakarta;2025-04-23
+ORD-1204;C0005;34;Perempuan;Elektronik;Webcam HD;300.000;1;0;E-Wallet;Selesai;Semarang;2025-04-24
+ORD-1434;C0114;33;Laki-laki;Elektronik;Earphone Bluetooth;250.000;1;20;Transfer Bank;Selesai;Medan;2025-05-08
+ORD-1120;C0057;39;Laki-laki;Elektronik;Keyboard Mekanik;450.000;2;0;E-Wallet;Dikembalikan;Surabaya;2025-06-08
+ORD-1022;C0149;52;Laki-laki;Fashion;Jaket Hoodie;220.000;1;10;Kartu Kredit;Selesai;Makassar;2025-04-22
+ORD-1403;C0213;53;Perempuan;Elektronik;Earphone Bluetooth;250.000;5;0;E-Wallet;Selesai;Makassar;2025-10-09
+ORD-1084;C0195;49;Laki-laki;Olahraga;Sepatu Lari;480.000;1;15;COD;Selesai;Surabaya;2025-06-12
+ORD-1131;C0135;20;Perempuan;Elektronik;Webcam HD;300.000;2;0;E-Wallet;Selesai;Bandung;2025-10-04
+ORD-1453;C0040;24;Laki-laki;Olahraga;Resistance Band;65.000;1;0;COD;Selesai;Malang;2025-10-20
+ORD-1490;C0210;22;Perempuan;Rumah Tangga;Set Panci;410.000;1;0;Transfer Bank;Dibatalkan;Surabaya;2025-07-08
+ORD-1330;C0208;43;Laki-laki;Rumah Tangga;Blender;275.000;1;0;E-Wallet;Dikembalikan;Medan;2025-03-26
+ORD-1230;C0022;25;Laki-laki;Elektronik;Keyboard Mekanik;450.000;1;5;E-Wallet;Selesai;Makassar;2025-02-23
+ORD-1287;C0155;32;Laki-laki;Rumah Tangga;Blender;275.000;1;10;E-Wallet;Selesai;Malang;2025-11-08
+ORD-1124;C0020;59;Laki-laki;Elektronik;Earphone Bluetooth;250.000;1;10;Transfer Bank;Selesai;Denpasar;2025-07-08
+ORD-1034;C0103;52;Perempuan;Elektronik;Mouse Wireless;120.000;1;0;E-Wallet;Selesai;Jakarta;2025-06-29
+ORD-1482;C0183;30;Perempuan;Kecantikan;Lipstik Matte;70.000;1;15;E-Wallet;Dibatalkan;Surabaya;2025-12-19
+ORD-1005;C0026;42;Perempuan;Fashion;Jaket Hoodie;220.000;2;0;E-Wallet;Selesai;Malang;2025-02-10
+ORD-1412;C0176;;Perempuan;Elektronik;Webcam HD;300.000;2;5;COD;Dibatalkan;Surabaya;2025-06-27
+ORD-1020;C0139;18;Laki-laki;Olahraga;Matras Yoga;110.000;1;5;Kartu Kredit;Selesai;Medan;2025-01-26
+ORD-1220;C0200;23;Laki-laki;Olahraga;Botol Minum;60.000;2;0;E-Wallet;Selesai;Bandung;2025-12-13
+ORD-1380;C0094;43;Laki-laki;Olahraga;Sepatu Lari;480.000;1;10;Transfer Bank;Selesai;Semarang;2025-12-01
+ORD-1420;C0104;22;Laki-laki;Rumah Tangga;Lampu LED Meja;95.000;1;0;COD;Selesai;Bandung;2025-11-20
+ORD-1357;C0158;53;Laki-laki;Rumah Tangga;Blender;275.000;1;20;COD;Dibatalkan;Denpasar;2025-12-04
+ORD-1150;C0096;46;Laki-laki;Olahraga;Matras Yoga;110.000;2;5;COD;Selesai;Bandung;2025-12-12
+ORD-1225;C0007;47;Laki-laki;Olahraga;Dumbbell 5kg;150.000;3;20;Transfer Bank;Selesai;Malang;2025-12-16
+ORD-1248;C0102;;Perempuan;Kecantikan;Lipstik Matte;70.000;1;0;COD;Selesai;Medan;2025-02-02
+ORD-1450;C0106;58;Perempuan;Rumah Tangga;Dispenser Mini;260.000;2;10;E-Wallet;Selesai;Makassar;2025-06-16
+ORD-1152;C0126;30;Laki-laki;Olahraga;Botol Minum;60.000;3;5;E-Wallet;Dibatalkan;Bandung;2025-12-22
+ORD-1489;C0170;56;Laki-laki;Fashion;Kemeja Flannel;165.000;2;0;Transfer Bank;Selesai;Malang;2025-12-11
+ORD-1318;C0028;48;Laki-laki;Olahraga;Resistance Band;65.000;5;15;COD;Selesai;Makassar;2025-05-25
+ORD-1292;C0043;58;Laki-laki;Elektronik;Powerbank 10000mAh;180.000;1;0;E-Wallet;Selesai;Makassar;2025-06-27
+ORD-1234;C0138;29;Perempuan;Elektronik;Webcam HD;300.000;1;0;COD;Dibatalkan;Makassar;2025-02-22
+ORD-1011;C0193;35;Perempuan;Elektronik;Earphone Bluetooth;250.000;1;0;Kartu Kredit;Selesai;Surabaya;2025-12-16
+ORD-1280;C0186;43;Perempuan;Elektronik;Keyboard Mekanik;450.000;1;5;E-Wallet;Selesai;Jakarta;2025-12-27
+ORD-1072;C0148;55;Laki-laki;Elektronik;Powerbank 10000mAh;180.000;2;20;E-Wallet;Selesai;Semarang;2025-12-12
+ORD-1253;C0207;24;Laki-laki;Fashion;Celana Chino;190.000;1;0;E-Wallet;Selesai;Makassar;2025-11-24
+ORD-1093;C0037;32;Perempuan;Rumah Tangga;Rice Cooker;320.000;1;5;Transfer Bank;Selesai;Makassar;2025-08-28
+ORD-1488;C0171;54;Perempuan;Rumah Tangga;Rice Cooker;320.000;4;0;Transfer Bank;Selesai;Makassar;2025-03-16
+ORD-1350;C0116;47;Laki-laki;Rumah Tangga;Rice Cooker;320.000;1;15;Transfer Bank;Selesai;Malang;2025-11-25
+ORD-1416;C0218;58;Perempuan;Elektronik;Powerbank 10000mAh;180.000;1;10;Transfer Bank;Selesai;Malang;2025-08-04
+ORD-1375;C0026;36;Laki-laki;Rumah Tangga;Blender;275.000;1;5;COD;Selesai;Medan;2025-12-10
+ORD-1401;C0009;56;Laki-laki;Kecantikan;Facial Wash;55.000;2;0;E-Wallet;Selesai;Bandung;2025-12-07
+ORD-1193;C0077;47;Perempuan;Fashion;Kemeja Flannel;165.000;3;0;Kartu Kredit;Selesai;Denpasar;2025-01-02
+ORD-1258;C0004;41;Perempuan;Olahraga;Matras Yoga;110.000;1;20;Kartu Kredit;Selesai;Bandung;2025-09-28
+ORD-1491;C0054;31;Laki-laki;Rumah Tangga;Set Panci;410.000;2;15;Transfer Bank;Selesai;Surabaya;2025-09-27
+ORD-1340;C0146;46;Laki-laki;Fashion;Kaos Polos;75.000;3;10;Transfer Bank;Dibatalkan;Denpasar;2025-12-26
+ORD-1500;C0029;41;Laki-laki;Rumah Tangga;Lampu LED Meja;95.000;4;5;Transfer Bank;Selesai;Medan;2025-12-06
+ORD-1196;C0188;54;Perempuan;Olahraga;Botol Minum;60.000;1;0;E-Wallet;Selesai;Makassar;2025-04-30
+ORD-1344;C0141;59;Laki-laki;Rumah Tangga;Set Panci;410.000;3;0;Kartu Kredit;Selesai;Denpasar;2025-01-26
+ORD-1138;C0021;19;Perempuan;Fashion;Celana Chino;190.000;3;10;Kartu Kredit;Selesai;Medan;2025-08-18
+ORD-1261;C0053;27;Perempuan;Elektronik;Mouse Wireless;120.000;2;20;Transfer Bank;Selesai;Denpasar;2025-02-10
+ORD-1039;C0083;47;Perempuan;Fashion;Celana Chino;190.000;2;10;Kartu Kredit;Dikembalikan;Malang;2025-10-24
+ORD-1463;C0159;27;Perempuan;Rumah Tangga;Blender;275.000;1;20;Transfer Bank;Selesai;Jakarta;2025-11-08
+ORD-1202;C0142;38;Perempuan;Olahraga;Dumbbell 5kg;150.000;1;15;COD;Selesai;Denpasar;2025-07-23
+ORD-1477;C0106;32;Laki-laki;Fashion;Kemeja Flannel;165.000;1;5;Kartu Kredit;Dibatalkan;Medan;2025-11-09
+ORD-1291;C0208;57;Laki-laki;Olahraga;Matras Yoga;110.000;4;0;COD;Dikembalikan;Surabaya;2025-04-04
+ORD-1449;C0103;50;Perempuan;Kecantikan;Facial Wash;55.000;2;10;Kartu Kredit;Selesai;Bandung;2025-11-18
+ORD-1190;C0001;31;Laki-laki;Rumah Tangga;Rice Cooker;320.000;1;15;Transfer Bank;Selesai;Jakarta;2025-07-22
+ORD-1252;C0152;32;Perempuan;Elektronik;Earphone Bluetooth;250.000;1;0;Transfer Bank;Selesai;Jakarta;2025-11-05
+ORD-1113;C0088;28;Perempuan;Olahraga;Dumbbell 5kg;150.000;2;20;Transfer Bank;Selesai;Semarang;2025-07-12
+ORD-1438;C0195;58;Laki-laki;Kecantikan;Serum Wajah;135.000;1;0;Transfer Bank;Selesai;Jakarta;2025-12-18
+ORD-1184;C0115;35;Perempuan;Kecantikan;Lipstik Matte;70.000;2;10;Transfer Bank;Selesai;Semarang;2025-12-08
+ORD-1153;C0082;60;Perempuan;Kecantikan;Serum Wajah;135.000;2;0;COD;Selesai;Surabaya;2025-12-16
+ORD-1313;C0115;29;Perempuan;Elektronik;Powerbank 10000mAh;180.000;1;20;COD;Dikembalikan;Makassar;2025-07-10
+ORD-1326;C0054;28;Laki-laki;Fashion;Jaket Hoodie;220.000;3;20;Transfer Bank;Selesai;Malang;2025-12-09
+ORD-1192;C0139;26;Perempuan;Kecantikan;Serum Wajah;135.000;1;10;Kartu Kredit;Selesai;Surabaya;2025-12-16
+ORD-1045;C0139;23;Laki-laki;Rumah Tangga;Blender;275.000;1;15;E-Wallet;Dibatalkan;Bandung;2025-05-20
+ORD-1445;C0160;55;Perempuan;Olahraga;Sepatu Lari;480.000;1;10;Transfer Bank;Selesai;Jakarta;2025-12-03
+ORD-1276;C0011;31;Perempuan;Fashion;Jaket Hoodie;220.000;1;0;COD;Selesai;Bandung;2025-12-27
+ORD-1007;C0057;38;Laki-laki;Kecantikan;Lipstik Matte;70.000;3;20;COD;Selesai;Medan;2025-11-24
+ORD-1251;C0167;28;Laki-laki;Rumah Tangga;Set Panci;410.000;2;15;E-Wallet;Selesai;Denpasar;2025-02-12
+ORD-1312;C0051;35;Perempuan;Fashion;Kaos Polos;75.000;2;15;Transfer Bank;Dibatalkan;Malang;2025-12-23
+ORD-1076;C0113;49;Laki-laki;Kecantikan;Facial Wash;55.000;5;10;E-Wallet;Dibatalkan;Jakarta;2025-11-10
+ORD-1001;C0027;52;Laki-laki;Elektronik;Earphone Bluetooth;250.000;1;0;E-Wallet;Selesai;Denpasar;2025-11-24
+ORD-1429;C0062;51;Perempuan;Fashion;Jaket Hoodie;220.000;2;10;COD;Selesai;Semarang;2025-02-10
+ORD-1392;C0034;56;Laki-laki;Olahraga;Matras Yoga;110.000;2;0;Transfer Bank;Dibatalkan;Denpasar;2025-02-17
+ORD-1384;C0214;22;Perempuan;Kecantikan;Lipstik Matte;70.000;5;0;Kartu Kredit;Selesai;Denpasar;2025-10-28
+ORD-1433;C0101;22;Perempuan;Elektronik;Powerbank 10000mAh;180.000;1;20;COD;Selesai;Bandung;2025-01-29
+ORD-1069;C0203;58;Laki-laki;Kecantikan;Serum Wajah;135.000;1;0;E-Wallet;Selesai;Denpasar;2025-12-26
+ORD-1487;C0002;33;Perempuan;Kecantikan;Facial Wash;55.000;1;0;Transfer Bank;Selesai;Medan;2025-02-10
+ORD-1168;C0051;;Perempuan;Rumah Tangga;Dispenser Mini;260.000;1;0;COD;Selesai;Jakarta;2025-07-07
+ORD-1393;C0124;42;Perempuan;Olahraga;Sepatu Lari;480.000;1;0;Kartu Kredit;Dikembalikan;Surabaya;2025-04-28
+ORD-1219;C0143;53;Perempuan;Rumah Tangga;Rice Cooker;320.000;1;0;Transfer Bank;Selesai;Surabaya;2025-12-15
+ORD-1043;C0206;47;Perempuan;Olahraga;Dumbbell 5kg;150.000;2;15;Kartu Kredit;Selesai;Malang;2025-03-04
+ORD-1367;C0085;20;Laki-laki;Elektronik;Powerbank 10000mAh;180.000;1;20;COD;Selesai;Surabaya;2025-01-13
+ORD-1346;C0212;23;Perempuan;Kecantikan;Serum Wajah;135.000;2;5;COD;Selesai;Medan;2025-10-13
+ORD-1073;C0209;49;Laki-laki;Olahraga;Sepatu Lari;480.000;1;0;COD;Dibatalkan;Malang;2025-12-21
+ORD-1024;C0159;23;Perempuan;Olahraga;Dumbbell 5kg;150.000;4;0;COD;Selesai;Makassar;2025-10-24
+ORD-1399;C0121;56;Perempuan;Kecantikan;Serum Wajah;135.000;1;0;COD;Selesai;Surabaya;2025-02-16
+ORD-1186;C0057;26;Perempuan;Elektronik;Mouse Wireless;120.000;1;10;COD;Selesai;Bandung;2025-07-08
+ORD-1349;C0049;25;Perempuan;Kecantikan;Serum Wajah;135.000;1;20;E-Wallet;Dibatalkan;Medan;2025-05-11
+ORD-1104;C0008;21;Perempuan;Olahraga;Botol Minum;60.000;1;0;Kartu Kredit;Dibatalkan;Denpasar;2025-08-23
+ORD-1408;C0122;38;Perempuan;Rumah Tangga;Rice Cooker;320.000;4;0;E-Wallet;Dikembalikan;Medan;2025-10-11
+ORD-1212;C0112;59;Perempuan;Elektronik;Powerbank 10000mAh;180.000;4;0;E-Wallet;Selesai;Surabaya;2025-02-12
+ORD-1026;C0090;22;Laki-laki;Olahraga;Dumbbell 5kg;150.000;1;5;COD;Selesai;Makassar;2025-09-17
+ORD-1197;C0152;29;Perempuan;Rumah Tangga;Set Panci;410.000;1;0;Kartu Kredit;Selesai;Malang;2025-02-01
+ORD-1176;C0102;40;Laki-laki;Elektronik;Webcam HD;300.000;1;15;Transfer Bank;Selesai;Semarang;2025-12-13
